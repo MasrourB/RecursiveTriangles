@@ -3,4 +3,4 @@
 
 
 These triangles will follow the mouse and change in size too.
-Feel free to play around with the code to your liking.
+Feel free to play around with the code to your liking. However you will need the processing.jar library which is provided.
