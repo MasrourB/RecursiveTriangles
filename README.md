@@ -1,5 +1,6 @@
-#A cool and simple visual use of recursion in Processing that I wanted to share!
+#Recursion to make 3D(ish) triangles
 ![alt tag](http://puu.sh/g5ysl/4d04243450.png)
+![alt tag](http://puu.sh/g5yHs/bdcb461320.png)
 
 
 These triangles will follow the mouse and change in size too.
