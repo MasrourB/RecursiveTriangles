@@ -1,5 +1,4 @@
 #Recursion to make 3D(ish) triangles
-![alt tag](http://puu.sh/g5ySs/fffc4042ed.png)
 ![alt tag](http://puu.sh/g5yHs/bdcb461320.png)
 
 
