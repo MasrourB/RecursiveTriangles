@@ -1,4 +1,4 @@
-A cool and simple visual use of recursion in Processing that I wanted to share!
+#A cool and simple visual use of recursion in Processing that I wanted to share!
 ![alt tag](http://puu.sh/g5ysl/4d04243450.png)
 
 
