@@ -1,4 +1,4 @@
-#Recursion to make 3D(ish) triangles
+#Recursion to make 3D-like triangles
 ![alt tag](http://puu.sh/g5yHs/bdcb461320.png)
 
 
